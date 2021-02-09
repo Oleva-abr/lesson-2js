@@ -1,1 +1,2 @@
-# lesson-2js
+# js-lesson2
+
